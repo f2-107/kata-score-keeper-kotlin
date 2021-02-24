@@ -16,3 +16,8 @@ It should look like this:
 *************************
 ```
 Hint: Use `*` for the border, whitespaces before and after the team names and the score (including the delimiter).
+
+## Feature rounds
+1. Let the user enter the team names
+2. Display the score board
+3. Implement the score function
