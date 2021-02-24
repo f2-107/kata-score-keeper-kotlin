@@ -8,7 +8,7 @@ So, write a console application to add a score to the match result.
 
 Use the function `score(team, score)` to solve this.
 
-After every score you should display the score board with the `showScoreBoard()` function.
+After every score you should display the score board with the `showScoreBoard(teamA, teamB)` function.
 It should look like this:
 ```text
 *************************
