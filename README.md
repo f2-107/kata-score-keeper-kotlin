@@ -6,6 +6,8 @@ We need a software to deliver the proper data to the scoreboard for a basketball
 
 So, write a console application to add a score to the match result.
 
+In the beginning the user of the 
+
 Use the function `score(team, score)` to solve this.
 
 After every score you should display the score board with the `showScoreBoard(teamA, teamB)` function.
